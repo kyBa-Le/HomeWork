@@ -100,7 +100,7 @@
 }
 .header{
     height: 60px;
-    width: 1520px;
+    width: 100%;
     display: flex;
     gap: 25px;
     font-size: 18px;
@@ -115,7 +115,7 @@
     width: 45%;
     margin-left: 170px;
 }
-img{
+.logo{
     border: 1px solid black;
     height: 70%;
     margin-top: 9px
